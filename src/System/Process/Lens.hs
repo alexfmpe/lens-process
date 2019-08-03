@@ -9,7 +9,7 @@
 -- Stability	: Experimental
 -- Portability	: TypeFamilies, RankNTypes
 --
--- This module provides all of the optical exports, as well ask any associated
+-- This module provides all of the optical exports, as well as any associated
 -- combinators. For just the optics, see 'System.Process.Lens.Optics', or
 -- if you are in need of something lighter weight, just for working with a
 -- 'CreateProcess' in terms of getters and setters, see <https://hackage.haskell.org/package/microlens>
